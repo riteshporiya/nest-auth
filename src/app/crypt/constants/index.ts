@@ -1,0 +1,1 @@
+export const CRYPTO_OPTIONS = 'CRYPTO_OPTIONS';
